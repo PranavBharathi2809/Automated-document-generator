@@ -23,7 +23,7 @@ const Results: React.FC = () => {
     return (
         <div className="full-container">
             <div className="results-header">
-                <button className="back-arrow" onClick={() => navigate("/")}>
+                <button className="res-back-arrow" onClick={() => navigate("/")}>
                     ←
                 </button>
                 <h2>Generated Offer Letters</h2>

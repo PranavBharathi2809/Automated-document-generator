@@ -1,6 +1,7 @@
 /* Wrapper (below navbar spacing) */
 .home-wrapper {
   padding-top: 80px;
+  position: relative;
 }
 
 /* Main card container */
@@ -13,6 +14,7 @@
   border-radius: 16px;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
   margin-top: 10px;
+  
 }
 
 /* Section spacing */

@@ -33,9 +33,9 @@ const Home: React.FC = () => {
  
   return (
     <div className="home-wrapper">
-   
+   <NavigateToSelection/>
       <div className="home-container">
-           <NavigateToSelection/>
+           
         <div className="section">
           <FileUpload
             label="Candidate Details"
